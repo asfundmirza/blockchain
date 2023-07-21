@@ -11,7 +11,7 @@ contract automotive{
         
     }
     address payable owner;
-    string  name;
+    
     
     mapping(address=>mapping(uint=>car)) private buyers;
     mapping(uint=>car) public cars;

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/crowd funding.sol": "crowdF"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/crowd funding.sol": {
+			"keccak256": "0x2979f9ebb1f6c73953faf78e3e95043af2fa486905c2af060fade6e2079f9a01",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0f23bbabc16845d43313b8840bcec00cb354b1ba128e9a4fb0f7ed8708d198cc",
+				"dweb:/ipfs/QmdSxhberURnVLFDHHMh1YtyPtYQUKbb9Gk7yfruqQqCJN"
+			]
+		}
+	},
+	"version": 1
+}
