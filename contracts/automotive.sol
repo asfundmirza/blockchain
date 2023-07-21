@@ -8,8 +8,10 @@ contract automotive{
         string make;
         uint price;
         bool forSale;
+        
     }
     address payable owner;
+    string  name;
     
     mapping(address=>mapping(uint=>car)) private buyers;
     mapping(uint=>car) public cars;
