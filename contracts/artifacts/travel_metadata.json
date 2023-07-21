@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/travel.sol": "travel"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/travel.sol": {
+			"keccak256": "0x9dc36522a8cdd02fb8ce2c8847b09e47edba4800ffa44e353c2f0bd190f3d8b9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://df11466ed92c87444110f33a5beebf74540dced6513e312a9f6d52ea0af1c8bc",
+				"dweb:/ipfs/QmQHDv51KTWoGHpZ4W1nJmbN6wyQv8DuwEELCgdBjWQK7C"
+			]
+		}
+	},
+	"version": 1
+}
